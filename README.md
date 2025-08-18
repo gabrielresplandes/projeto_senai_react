@@ -1,6 +1,6 @@
 # RWGV Motors — Concessionária Premium (Vite + React)
 
-Site estilizado com páginas **Início**, **Catálogo** e **Fale Conosco**, pronto para você inserir seu logotipo e dados reais.
+Site estilizado com páginas **Início**, **Catálogo** e **Fale Conosco**.
 
 ## Integrantes
 - Gabriel Resplandes
